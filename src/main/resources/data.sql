@@ -1,0 +1,3 @@
+INSERT INTO RESTAURANT VALUES (1, 'New Delhi Pride', 1, 3, 2, 6);
+INSERT INTO RESTAURANT VALUES (2, 'Chicago Pizza', 2, 3, 4, 9);
+INSERT INTO RESTAURANT VALUES (3, 'New York Bagel', 4, 4, 3, 11);
